@@ -1,68 +1,89 @@
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+# [Coming Sssoon Page - Free Bootstrap Page](http://demos.creative-tim.com/coming-sssoon-demo-image-background)
 
-## Available Scripts
+![alt text](https://s3.amazonaws.com/creativetim_bucket/products/20/original/coming_sssoon_thumbnail.png "Coming Soon Page")
 
-In the project directory, you can run:
+Free one page item based on Bootstrap 3. Use Coming Sssoon Page to create a following group users before actually starting your project! it is light, easy to use and it helps you be in contact with your audience.
 
-### `npm start`
+Why have a coming soon page and a subscription?
 
-Runs the app in the development mode.<br />
-Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
+Because social media spreads your message, but email and content marketing help you establish a connection with your customers.
 
-The page will reload if you make edits.<br />
-You will also see any lint errors in the console.
+If you start up with this mentality, it will bring you nothing but good. So, when you think you have a hint of a product, try to validate it! Get user engagement, create social media account, set up your Mailchimp account and let people see it through a Coming Soon page.
 
-### `npm test`
+It may sound complicated or you may be inclined to procastinate, but every step of the way is now made easier. Creative Tim's Coming soon page is a step in that direction. It is seasy to set up and customise to your needs. And it will help your customers get the main idea you are trying to create!
 
-Launches the test runner in the interactive watch mode.<br />
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+We encourage you to create honest connections with your potential clients. Take the first step and create a coming soon page, you've come to the right place! We covered a number of different uses for the page (standard website, application, video example and a restaurant custom page). Whatever your use is, we think you will find one that fits your needs.
 
-### `npm run build`
+The next step is getting the look you want to the page. We added custom filters (standard black, blue, green, orange, red) that give an edge to the page. We can't want to see what you choose and use! We adjusted the transparency of the filters so any image can look good. Go ahead, try and use your own! You'll see how great it looks with our design.
 
-Builds the app for production to the `build` folder.<br />
-It correctly bundles React in production mode and optimizes the build for the best performance.
+IMPORTANT - If you want to integrate a third party service for register emails we've made a tutorial here:  http://blog.creative-tim.com/web-development/set-mailchimp-custom-coming-soon-page/
 
-The build is minified and the filenames include the hashes.<br />
-Your app is ready to be deployed!
+## Links:
 
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
++ [Live Preview](http://demos.creative-tim.com/coming-sssoon-demo-image-background)
 
-### `npm run eject`
+## Quick start
 
-**Note: this is a one-way operation. Once you `eject`, you can’t go back!**
+Quick start options:
 
-If you aren’t satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
+- [Download from Github](https://github.com/creativetimofficial/coming-sssoon-page.git).
+- [Download from Creative Tim](https://www.creative-tim.com/product/coming-sssoon-page).
+- Clone the repo: `git clone https://github.com/creativetimofficial/coming-sssoon-page.git`.
 
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you’re on your own.
 
-You don’t have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn’t feel obligated to use this feature. However we understand that this tool wouldn’t be useful if you couldn’t customize it when you are ready for it.
+### What's included
 
-## Learn More
+Within the download you'll find the following directories and files:
 
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
+```
+x_coming_sssoon_page/
+├── components.html
+├── css
+│   ├── bootstrap.css
+│   ├── coming-sssoon-demo.css
+│   └── coming-sssoon.css
+├── demo-cream-app.html
+├── demo-image-background.html
+├── demo-restaurant.html
+├── demo-video-background.html
+├── images/
+├── index.html
+└── js
+    ├── bootstrap.min.js
+    └── jquery-1.10.2.js
 
-To learn React, check out the [React documentation](https://reactjs.org/).
+```
 
-### Code Splitting
+### Version logs
 
-This section has moved here: https://facebook.github.io/create-react-app/docs/code-splitting
+V1.3.2, 10 Feb 2017 [current version]
+- switched to MIT license .
 
-### Analyzing the Bundle Size
 
-This section has moved here: https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size
+### License
 
-### Making a Progressive Web App
+- Copyright 2017 Creative Tim (http://www.creative-tim.com)
+- Licensed under MIT (https://github.com/creativetimofficial/coming-sssoon-page/blob/master/LICENSE.md)
 
-This section has moved here: https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app
 
-### Advanced Configuration
+## Useful Links
 
-This section has moved here: https://facebook.github.io/create-react-app/docs/advanced-configuration
+More products from Creative Tim: <http://www.creative-tim.com/products>
 
-### Deployment
+Tutorials: <https://www.youtube.com/channel/UCVyTG4sCw-rOvB9oHkzZD1w>
 
-This section has moved here: https://facebook.github.io/create-react-app/docs/deployment
+Freebies: <http://www.creative-tim.com/products>
 
-### `npm run build` fails to minify
+Affiliate Program (earn money): <http://www.creative-tim.com/affiliates/new>
 
-This section has moved here: https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify
+Social Media:
+
+Twitter: <https://twitter.com/CreativeTim>
+
+Facebook: <https://www.facebook.com/CreativeTim>
+
+Dribbble: <https://dribbble.com/creativetim>
+
+Google+: <https://plus.google.com/+CreativetimPage>
+
+Instagram: <https://instagram.com/creativetimofficial>
